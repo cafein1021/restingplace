@@ -8,5 +8,5 @@ github learning ground
 ・仕事の効率化</br>
 ・理解を進める</br>
 ・使用方法などを学ぶ</br>
-
+あ
 ・リクエスト変更の練習
