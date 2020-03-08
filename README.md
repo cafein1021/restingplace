@@ -9,4 +9,3 @@ github learning ground
 ・理解を進める</br>
 ・使用方法などを学ぶ</br>
 ・リクエスト変更の練習
-あ
